@@ -1,0 +1,17 @@
+C:\Users\porte\source\repos\HelloWorldWinForm_Porter\HelloWorldWinForm_Porter\bin\Debug\net7.0-windows\HelloWorldWinForm_Porter.exe
+C:\Users\porte\source\repos\HelloWorldWinForm_Porter\HelloWorldWinForm_Porter\bin\Debug\net7.0-windows\HelloWorldWinForm_Porter.deps.json
+C:\Users\porte\source\repos\HelloWorldWinForm_Porter\HelloWorldWinForm_Porter\bin\Debug\net7.0-windows\HelloWorldWinForm_Porter.runtimeconfig.json
+C:\Users\porte\source\repos\HelloWorldWinForm_Porter\HelloWorldWinForm_Porter\bin\Debug\net7.0-windows\HelloWorldWinForm_Porter.dll
+C:\Users\porte\source\repos\HelloWorldWinForm_Porter\HelloWorldWinForm_Porter\bin\Debug\net7.0-windows\HelloWorldWinForm_Porter.pdb
+C:\Users\porte\source\repos\HelloWorldWinForm_Porter\HelloWorldWinForm_Porter\obj\Debug\net7.0-windows\HelloWorldWinForm_Porter.csproj.AssemblyReference.cache
+C:\Users\porte\source\repos\HelloWorldWinForm_Porter\HelloWorldWinForm_Porter\obj\Debug\net7.0-windows\HelloWorldWinForm_Porter.Form1.resources
+C:\Users\porte\source\repos\HelloWorldWinForm_Porter\HelloWorldWinForm_Porter\obj\Debug\net7.0-windows\HelloWorldWinForm_Porter.csproj.GenerateResource.cache
+C:\Users\porte\source\repos\HelloWorldWinForm_Porter\HelloWorldWinForm_Porter\obj\Debug\net7.0-windows\HelloWorldWinForm_Porter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porte\source\repos\HelloWorldWinForm_Porter\HelloWorldWinForm_Porter\obj\Debug\net7.0-windows\HelloWorldWinForm_Porter.AssemblyInfoInputs.cache
+C:\Users\porte\source\repos\HelloWorldWinForm_Porter\HelloWorldWinForm_Porter\obj\Debug\net7.0-windows\HelloWorldWinForm_Porter.AssemblyInfo.cs
+C:\Users\porte\source\repos\HelloWorldWinForm_Porter\HelloWorldWinForm_Porter\obj\Debug\net7.0-windows\HelloWorldWinForm_Porter.csproj.CoreCompileInputs.cache
+C:\Users\porte\source\repos\HelloWorldWinForm_Porter\HelloWorldWinForm_Porter\obj\Debug\net7.0-windows\HelloWorldWinForm_Porter.dll
+C:\Users\porte\source\repos\HelloWorldWinForm_Porter\HelloWorldWinForm_Porter\obj\Debug\net7.0-windows\refint\HelloWorldWinForm_Porter.dll
+C:\Users\porte\source\repos\HelloWorldWinForm_Porter\HelloWorldWinForm_Porter\obj\Debug\net7.0-windows\HelloWorldWinForm_Porter.pdb
+C:\Users\porte\source\repos\HelloWorldWinForm_Porter\HelloWorldWinForm_Porter\obj\Debug\net7.0-windows\HelloWorldWinForm_Porter.genruntimeconfig.cache
+C:\Users\porte\source\repos\HelloWorldWinForm_Porter\HelloWorldWinForm_Porter\obj\Debug\net7.0-windows\ref\HelloWorldWinForm_Porter.dll
